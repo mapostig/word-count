@@ -1,32 +1,36 @@
 
 
-Usage
+Anime
 =====
 
 
-How to clone the code
+How to see luffy
 ---------------------
 
-Write me ...
+.. image:: ./Luffy.jpg
+  :width: 400
+  :alt: Luffy!
 
-
-Make
+How to see aot
 ----
 
-Generate all results:
+No idea
 
 ::
 
-  $ make
+  $ Eren Jaeger
+  
+.. image:: ./aot.jpg
+  :width: 400
+  :alt: AOT!
 
 
-Snakemake
+What about itachi
 ---------
 
-Write me ...
+mmmmm... Sharingan?
 
+.. image:: ./itachi.jpg
+  :width: 400
+  :alt: Itachi!
 
-Where to find the results
--------------------------
-
-Write me ...
